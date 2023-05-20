@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+.c1{
+    width: 200px;
+    height:  200px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 200px;    
+}
+.c2{
+    width: 200px;
+    height:  200px;
+    background-color: yellow;
+    position: absolute;
+
+}
+.c3{
+    width: 200px;
+    height:  200px;
+    background-color: red;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
